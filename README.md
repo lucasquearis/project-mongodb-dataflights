@@ -1,7 +1,8 @@
 # Projeto DataFlights - MongoDB
 
 Esse foi meu primeiro projeto manipulando querys em MongoDB aqui na [Trybe](https://www.betrybe.com/):rocket:
-[Pasta Queries]()
+
+[Pasta Queries](https://github.com/lucasquearis/project-mongodb-dataflights/tree/master/challenges)
 
 ## Conteúdos práticados
 
@@ -15,4 +16,4 @@ Esse foi meu primeiro projeto manipulando querys em MongoDB aqui na [Trybe](http
 - Método sort
 - Remover documentos
 
-[Readme Original requisitos do projeto](https://github.com/lucasquearis/project-mysql-all-for-one/blob/master/readmeOriginalProject.md);
+[Readme Original requisitos do projeto](https://github.com/lucasquearis/project-mongodb-dataflights/blob/master/readmeOriginalProject.md);
